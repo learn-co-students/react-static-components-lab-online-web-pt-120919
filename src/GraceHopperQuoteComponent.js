@@ -12,6 +12,6 @@ export class GraceHopperQuoteComponent extends Component {
 				<br />
 				&#9;-Admiral Grace Hopper
 			</div>
-		);
+		)
 	}
 }
