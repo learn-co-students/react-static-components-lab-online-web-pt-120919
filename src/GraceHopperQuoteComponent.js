@@ -16,3 +16,4 @@ export class GraceHopperQuoteComponent extends Component {
 		);
 	}
 }
+ 
